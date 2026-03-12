@@ -1,0 +1,1044 @@
+{
+  "Layer A": {
+    "Agriculture, Forestry & Food Systems": [
+      {
+        "company": "Agrirobot",
+        "slug": "AgriRobot",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Agriculture,%20Forestry%20%26%20Food%20Systems/AgriRobot.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Agxeed",
+        "slug": "AgXeed",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Agriculture,%20Forestry%20%26%20Food%20Systems/AgXeed.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Caterra",
+        "slug": "Caterra",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Agriculture,%20Forestry%20%26%20Food%20Systems/Caterra.png",
+        "format": "png"
+      },
+      {
+        "company": "Ecorobotix",
+        "slug": "Ecorobotix",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Agriculture,%20Forestry%20%26%20Food%20Systems/Ecorobotix.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Edencore",
+        "slug": "EdenCore",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Agriculture,%20Forestry%20%26%20Food%20Systems/EdenCore.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Farmdroid",
+        "slug": "FarmDroid",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Agriculture,%20Forestry%20%26%20Food%20Systems/FarmDroid.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Floating Robotics",
+        "slug": "Floating Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Agriculture,%20Forestry%20%26%20Food%20Systems/Floating%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Grodi",
+        "slug": "Grodi",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Agriculture,%20Forestry%20%26%20Food%20Systems/Grodi.png",
+        "format": "png"
+      },
+      {
+        "company": "Kilter",
+        "slug": "Kilter",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Agriculture,%20Forestry%20%26%20Food%20Systems/Kilter.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Naïo Technologies",
+        "slug": "Naïo Technologies",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Agriculture,%20Forestry%20%26%20Food%20Systems/Naïo%20Technologies.webp",
+        "format": "webp"
+      },
+      {
+        "company": "Octinion (Urban Crop)",
+        "slug": "Octinion (Urban Crop)",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Agriculture,%20Forestry%20%26%20Food%20Systems/Octinion%20(Urban%20Crop).jpg",
+        "format": "jpg"
+      },
+      {
+        "company": "Saga Robotics",
+        "slug": "Saga Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Agriculture,%20Forestry%20%26%20Food%20Systems/Saga%20Robotics.svg",
+        "format": "svg"
+      }
+    ],
+    "Construction, Infrastructure & Built Environment": [
+      {
+        "company": "10Lines",
+        "slug": "10Lines",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Construction,%20Infrastructure%20%26%20Built%20Environment/10Lines.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Aerones",
+        "slug": "Aerones",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Construction,%20Infrastructure%20%26%20Built%20Environment/Aerones.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Aithon",
+        "slug": "Aithon",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Construction,%20Infrastructure%20%26%20Built%20Environment/Aithon.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Baubot (Printstones)",
+        "slug": "BAUBOT (Printstones)",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Construction,%20Infrastructure%20%26%20Built%20Environment/BAUBOT%20(Printstones).svg",
+        "format": "svg"
+      },
+      {
+        "company": "Converto  Nlink",
+        "slug": "Converto  nLink",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Construction,%20Infrastructure%20%26%20Built%20Environment/Converto%20%20nLink.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Cybe",
+        "slug": "CyBe",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Construction,%20Infrastructure%20%26%20Built%20Environment/CyBe.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Flybotix",
+        "slug": "Flybotix",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Construction,%20Infrastructure%20%26%20Built%20Environment/Flybotix.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Hausbots",
+        "slug": "HausBots",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Construction,%20Infrastructure%20%26%20Built%20Environment/HausBots.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Kewazo",
+        "slug": "KEWAZO",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Construction,%20Infrastructure%20%26%20Built%20Environment/KEWAZO.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Monumental",
+        "slug": "Monumental",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Construction,%20Infrastructure%20%26%20Built%20Environment/Monumental.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Pipein",
+        "slug": "Pipein",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Construction,%20Infrastructure%20%26%20Built%20Environment/Pipein.jpg",
+        "format": "jpg"
+      },
+      {
+        "company": "Scaled Robotics",
+        "slug": "Scaled Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Construction,%20Infrastructure%20%26%20Built%20Environment/Scaled%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Under Industries",
+        "slug": "Under Industries",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Construction,%20Infrastructure%20%26%20Built%20Environment/Under%20Industries.jpg",
+        "format": "jpg"
+      },
+      {
+        "company": "Wingtra",
+        "slug": "Wingtra",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Construction,%20Infrastructure%20%26%20Built%20Environment/Wingtra.svg",
+        "format": "svg"
+      }
+    ],
+    "Defence, Security & Dual Use": [
+      {
+        "company": "Arx Robotics",
+        "slug": "ARX Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Defence,%20Security%20%26%20Dual%20Use/ARX%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Harmattan Ai",
+        "slug": "Harmattan AI",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Defence,%20Security%20%26%20Dual%20Use/Harmattan%20AI.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Helsing",
+        "slug": "Helsing",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Defence,%20Security%20%26%20Dual%20Use/Helsing.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Kova Labs",
+        "slug": "Kova Labs",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Defence,%20Security%20%26%20Dual%20Use/Kova%20Labs.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Milrem Robotics",
+        "slug": "Milrem Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Defence,%20Security%20%26%20Dual%20Use/Milrem%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Quantum Systems",
+        "slug": "Quantum Systems",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Defence,%20Security%20%26%20Dual%20Use/Quantum%20Systems.svg",
+        "format": "svg"
+      }
+    ],
+    "Domestic & Consumer Robotics": [
+      {
+        "company": "Blue Frog Robotics (Buddy)",
+        "slug": "Blue Frog Robotics (Buddy)",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Domestic%20%26%20Consumer%20Robotics/Blue%20Frog%20Robotics%20(Buddy).webp",
+        "format": "webp"
+      },
+      {
+        "company": "Furhat Robotics",
+        "slug": "Furhat Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Domestic%20%26%20Consumer%20Robotics/Furhat%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Marty The Robot (Robotical)",
+        "slug": "Marty the Robot (Robotical)",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Domestic%20%26%20Consumer%20Robotics/Marty%20the%20Robot%20(Robotical).png",
+        "format": "png"
+      },
+      {
+        "company": "No Isolation (Av1)",
+        "slug": "No Isolation (AV1)",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Domestic%20%26%20Consumer%20Robotics/No%20Isolation%20(AV1).svg",
+        "format": "svg"
+      },
+      {
+        "company": "Rivr",
+        "slug": "Rivr",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Domestic%20%26%20Consumer%20Robotics/Rivr.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Temi (Europe Operations)",
+        "slug": "Temi (europe operations)",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Domestic%20%26%20Consumer%20Robotics/Temi%20(europe%20operations).svg",
+        "format": "svg"
+      }
+    ],
+    "Drones & Autonomous Vehicles (Non-Humanoid)": [
+      {
+        "company": "Acua Robotics",
+        "slug": "Acua Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Drones%20%26%20Autonomous%20Vehicles%20(Non-Humanoid)/Acua%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Airvolute",
+        "slug": "Airvolute",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Drones%20%26%20Autonomous%20Vehicles%20(Non-Humanoid)/Airvolute.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Delair",
+        "slug": "Delair",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Drones%20%26%20Autonomous%20Vehicles%20(Non-Humanoid)/Delair.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Manna",
+        "slug": "Manna",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Drones%20%26%20Autonomous%20Vehicles%20(Non-Humanoid)/Manna.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Marble",
+        "slug": "Marble",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Drones%20%26%20Autonomous%20Vehicles%20(Non-Humanoid)/Marble.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Nautica",
+        "slug": "Nautica",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Drones%20%26%20Autonomous%20Vehicles%20(Non-Humanoid)/Nautica.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Tekever",
+        "slug": "Tekever",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Drones%20%26%20Autonomous%20Vehicles%20(Non-Humanoid)/Tekever.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Tethys Robotics",
+        "slug": "Tethys Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Drones%20%26%20Autonomous%20Vehicles%20(Non-Humanoid)/Tethys%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Twentyfour Industries",
+        "slug": "Twentyfour Industries",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Drones%20%26%20Autonomous%20Vehicles%20(Non-Humanoid)/Twentyfour%20Industries.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Wingcopter",
+        "slug": "Wingcopter",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Drones%20%26%20Autonomous%20Vehicles%20(Non-Humanoid)/Wingcopter.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Zelim",
+        "slug": "Zelim",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Drones%20%26%20Autonomous%20Vehicles%20(Non-Humanoid)/Zelim.svg",
+        "format": "svg"
+      }
+    ],
+    "Healthcare & Medical Robotics": [
+      {
+        "company": "Aiendoscopic",
+        "slug": "aiEndoscopic",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Healthcare%20%26%20Medical%20Robotics/aiEndoscopic.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Autonomyo",
+        "slug": "Autonomyo",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Healthcare%20%26%20Medical%20Robotics/Autonomyo.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Bionit Labs",
+        "slug": "BionIT Labs",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Healthcare%20%26%20Medical%20Robotics/BionIT%20Labs.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Blue Ocean Robotics",
+        "slug": "Blue Ocean Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Healthcare%20%26%20Medical%20Robotics/Blue%20Ocean%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Cmr Surgical",
+        "slug": "CMR Surgical",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Healthcare%20%26%20Medical%20Robotics/CMR%20Surgical.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Distalmotion",
+        "slug": "Distalmotion",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Healthcare%20%26%20Medical%20Robotics/Distalmotion.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Lem Surgical",
+        "slug": "LEM Surgical",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Healthcare%20%26%20Medical%20Robotics/LEM%20Surgical.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Moon Surgical",
+        "slug": "Moon Surgical",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Healthcare%20%26%20Medical%20Robotics/Moon%20Surgical.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Nami Surgical",
+        "slug": "Nami Surgical",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Healthcare%20%26%20Medical%20Robotics/Nami%20Surgical.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Nanoflex Robotics",
+        "slug": "Nanoflex Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Healthcare%20%26%20Medical%20Robotics/Nanoflex%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Panda Surgical",
+        "slug": "Panda Surgical",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Healthcare%20%26%20Medical%20Robotics/Panda%20Surgical.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Quantum Surgical",
+        "slug": "Quantum Surgical",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Healthcare%20%26%20Medical%20Robotics/Quantum%20Surgical.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Vilje Bionics",
+        "slug": "Vilje Bionics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Healthcare%20%26%20Medical%20Robotics/Vilje%20Bionics.webp",
+        "format": "webp"
+      },
+      {
+        "company": "Wandercraft",
+        "slug": "Wandercraft",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Healthcare%20%26%20Medical%20Robotics/Wandercraft.svg",
+        "format": "svg"
+      }
+    ],
+    "Humanoid & General-Purpose Robots": [
+      {
+        "company": "1X Technologies (Formerly Halodi)",
+        "slug": "1X Technologies (formerly Halodi)",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Humanoid%20%26%20General-Purpose%20Robots/1X%20Technologies%20(formerly%20Halodi).svg",
+        "format": "svg"
+      },
+      {
+        "company": "Enchanted Tools",
+        "slug": "Enchanted Tools",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Humanoid%20%26%20General-Purpose%20Robots/Enchanted%20Tools.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Engineered Arts",
+        "slug": "Engineered Arts",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Humanoid%20%26%20General-Purpose%20Robots/Engineered%20Arts.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Hexagon Robotics",
+        "slug": "Hexagon Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Humanoid%20%26%20General-Purpose%20Robots/Hexagon%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Icub",
+        "slug": "iCub",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Humanoid%20%26%20General-Purpose%20Robots/iCub.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Neura Robotics",
+        "slug": "NEURA Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Humanoid%20%26%20General-Purpose%20Robots/NEURA%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Pal Robotics",
+        "slug": "PAL Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Humanoid%20%26%20General-Purpose%20Robots/PAL%20Robotics.png",
+        "format": "png"
+      }
+    ],
+    "Industrial & Manufacturing Robotics": [
+      {
+        "company": "Agile Robots",
+        "slug": "Agile Robots",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Industrial%20%26%20Manufacturing%20Robotics/Agile%20Robots.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Anybotics",
+        "slug": "ANYbotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Industrial%20%26%20Manufacturing%20Robotics/ANYbotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Automata",
+        "slug": "Automata",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Industrial%20%26%20Manufacturing%20Robotics/Automata.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Eclore Actuators",
+        "slug": "Eclore Actuators",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Industrial%20%26%20Manufacturing%20Robotics/Eclore%20Actuators.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Filics",
+        "slug": "Filics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Industrial%20%26%20Manufacturing%20Robotics/Filics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Franka Emika",
+        "slug": "Franka Emika",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Industrial%20%26%20Manufacturing%20Robotics/Franka%20Emika.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Isybot",
+        "slug": "Isybot",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Industrial%20%26%20Manufacturing%20Robotics/Isybot.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Micropsi",
+        "slug": "Micropsi",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Industrial%20%26%20Manufacturing%20Robotics/Micropsi.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Mimic",
+        "slug": "Mimic",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Industrial%20%26%20Manufacturing%20Robotics/Mimic.svg",
+        "format": "svg"
+      },
+      {
+        "company": "N Robotics",
+        "slug": "N Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Industrial%20%26%20Manufacturing%20Robotics/N%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "R3 Robotics",
+        "slug": "R3 Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Industrial%20%26%20Manufacturing%20Robotics/R3%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Robco",
+        "slug": "RobCo",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Industrial%20%26%20Manufacturing%20Robotics/RobCo.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Sewts",
+        "slug": "sewts",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Industrial%20%26%20Manufacturing%20Robotics/sewts.webp",
+        "format": "webp"
+      },
+      {
+        "company": "Sunrise Robotics",
+        "slug": "Sunrise Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Industrial%20%26%20Manufacturing%20Robotics/Sunrise%20Robotics.svg",
+        "format": "svg"
+      }
+    ],
+    "Logistics, Warehouse & Last-Mile Robotics": [
+      {
+        "company": "Autostore",
+        "slug": "AutoStore",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Logistics,%20Warehouse%20%26%20Last-Mile%20Robotics/AutoStore.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Brightpick",
+        "slug": "Brightpick",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Logistics,%20Warehouse%20%26%20Last-Mile%20Robotics/Brightpick.png",
+        "format": "png"
+      },
+      {
+        "company": "Dexory",
+        "slug": "Dexory",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Logistics,%20Warehouse%20%26%20Last-Mile%20Robotics/Dexory.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Exotec",
+        "slug": "Exotec",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Logistics,%20Warehouse%20%26%20Last-Mile%20Robotics/Exotec.png",
+        "format": "png"
+      },
+      {
+        "company": "Fizyr",
+        "slug": "Fizyr",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Logistics,%20Warehouse%20%26%20Last-Mile%20Robotics/Fizyr.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Galam Robotics",
+        "slug": "Galam Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Logistics,%20Warehouse%20%26%20Last-Mile%20Robotics/Galam%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Gideon (Formerly Gideon Brothers)",
+        "slug": "Gideon (formerly Gideon Brothers)",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Logistics,%20Warehouse%20%26%20Last-Mile%20Robotics/Gideon%20(formerly%20Gideon%20Brothers).svg",
+        "format": "svg"
+      },
+      {
+        "company": "Kinexon",
+        "slug": "Kinexon",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Logistics,%20Warehouse%20%26%20Last-Mile%20Robotics/Kinexon.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Levtek",
+        "slug": "Levtek",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Logistics,%20Warehouse%20%26%20Last-Mile%20Robotics/Levtek.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Lowpad",
+        "slug": "Lowpad",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Logistics,%20Warehouse%20%26%20Last-Mile%20Robotics/Lowpad.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Magazino",
+        "slug": "Magazino",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Logistics,%20Warehouse%20%26%20Last-Mile%20Robotics/Magazino.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Neointralogistics",
+        "slug": "NEOintralogistics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Logistics,%20Warehouse%20%26%20Last-Mile%20Robotics/NEOintralogistics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Node Robotics",
+        "slug": "NODE Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Logistics,%20Warehouse%20%26%20Last-Mile%20Robotics/NODE%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Nomagic",
+        "slug": "Nomagic",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Logistics,%20Warehouse%20%26%20Last-Mile%20Robotics/Nomagic.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Onward",
+        "slug": "Onward",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Logistics,%20Warehouse%20%26%20Last-Mile%20Robotics/Onward.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Progressive Robotics",
+        "slug": "Progressive Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Logistics,%20Warehouse%20%26%20Last-Mile%20Robotics/Progressive%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Scallog",
+        "slug": "Scallog",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Logistics,%20Warehouse%20%26%20Last-Mile%20Robotics/Scallog.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Seal Robotics",
+        "slug": "Seal Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Logistics,%20Warehouse%20%26%20Last-Mile%20Robotics/Seal%20Robotics.png",
+        "format": "png"
+      },
+      {
+        "company": "Starship",
+        "slug": "Starship",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Logistics,%20Warehouse%20%26%20Last-Mile%20Robotics/Starship.png",
+        "format": "png"
+      },
+      {
+        "company": "Unchained Robotics",
+        "slug": "Unchained Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Logistics,%20Warehouse%20%26%20Last-Mile%20Robotics/Unchained%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Verity",
+        "slug": "Verity",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Logistics,%20Warehouse%20%26%20Last-Mile%20Robotics/Verity.png",
+        "format": "png"
+      }
+    ],
+    "Mobility & Autonomous Transportation Robotics": [
+      {
+        "company": "Oxbotica",
+        "slug": "Oxbotica",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Mobility%20%26%20Autonomous%20Transportation%20Robotics/Oxbotica.svg",
+        "format": "svg"
+      }
+    ],
+    "Science, Research & Laboratory Robotics": [
+      {
+        "company": "Imai Medtech",
+        "slug": "IMAI Medtech",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Science,%20Research%20%26%20Laboratory%20Robotics/IMAI%20Medtech.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Labgenius",
+        "slug": "LabGenius",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Science,%20Research%20%26%20Laboratory%20Robotics/LabGenius.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Opentrons Eu Ops",
+        "slug": "Opentrons EU ops",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Science,%20Research%20%26%20Laboratory%20Robotics/Opentrons%20EU%20ops.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Synthace",
+        "slug": "Synthace",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Science,%20Research%20%26%20Laboratory%20Robotics/Synthace.svg",
+        "format": "svg"
+      }
+    ],
+    "Service Robotics (Commercial & Consumer)": [
+      {
+        "company": "Aitonomi",
+        "slug": "Aitonomi",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Service%20Robotics%20(Commercial%20%26%20Consumer)/Aitonomi.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Ascento",
+        "slug": "Ascento",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Service%20Robotics%20(Commercial%20%26%20Consumer)/Ascento.svg",
+        "format": "svg"
+      },
+      {
+        "company": "F&P Robotics (Eu Presence)",
+        "slug": "F&P Robotics (EU presence)",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Service%20Robotics%20(Commercial%20%26%20Consumer)/F%26P%20Robotics%20(EU%20presence).svg",
+        "format": "svg"
+      },
+      {
+        "company": "Loki Robotics",
+        "slug": "Loki Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Service%20Robotics%20(Commercial%20%26%20Consumer)/Loki%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Oddbot",
+        "slug": "Oddbot",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Service%20Robotics%20(Commercial%20%26%20Consumer)/Oddbot.png",
+        "format": "png"
+      },
+      {
+        "company": "Ottonomy Europe",
+        "slug": "Ottonomy Europe",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Service%20Robotics%20(Commercial%20%26%20Consumer)/Ottonomy%20Europe.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Paddington Robotics",
+        "slug": "Paddington Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Service%20Robotics%20(Commercial%20%26%20Consumer)/Paddington%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Pudu Europe Ops",
+        "slug": "Pudu Europe ops",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Service%20Robotics%20(Commercial%20%26%20Consumer)/Pudu%20Europe%20ops.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Roboa",
+        "slug": "Roboa",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Service%20Robotics%20(Commercial%20%26%20Consumer)/Roboa.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Rollo Robotics",
+        "slug": "Rollo Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Service%20Robotics%20(Commercial%20%26%20Consumer)/Rollo%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "United Robotics Group",
+        "slug": "United Robotics Group",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Service%20Robotics%20(Commercial%20%26%20Consumer)/United%20Robotics%20Group.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Voliro",
+        "slug": "Voliro",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20A/Service%20Robotics%20(Commercial%20%26%20Consumer)/Voliro.svg",
+        "format": "svg"
+      }
+    ]
+  },
+  "Layer B Infrastructure Enabling Categories": {
+    "Autonomy, Navigation & Localization (Spatial Intelligence)": [
+      {
+        "company": "Exwayz",
+        "slug": "Exwayz",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Autonomy,%20Navigation%20%26%20Localization%20(Spatial%20Intelligence)/Exwayz.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Flexoo",
+        "slug": "Flexoo",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Autonomy,%20Navigation%20%26%20Localization%20(Spatial%20Intelligence)/Flexoo.png",
+        "format": "png"
+      },
+      {
+        "company": "Navvis",
+        "slug": "NavVis",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Autonomy,%20Navigation%20%26%20Localization%20(Spatial%20Intelligence)/NavVis.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Peregrine Ai",
+        "slug": "Peregrine AI",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Autonomy,%20Navigation%20%26%20Localization%20(Spatial%20Intelligence)/Peregrine%20AI.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Proxima Robotics",
+        "slug": "Proxima Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Autonomy,%20Navigation%20%26%20Localization%20(Spatial%20Intelligence)/Proxima%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Scantinel Photonics",
+        "slug": "Scantinel Photonics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Autonomy,%20Navigation%20%26%20Localization%20(Spatial%20Intelligence)/Scantinel%20Photonics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Sees Ai",
+        "slug": "Sees AI",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Autonomy,%20Navigation%20%26%20Localization%20(Spatial%20Intelligence)/Sees%20AI.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Sevensense (Eu Ops)",
+        "slug": "Sevensense (EU ops)",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Autonomy,%20Navigation%20%26%20Localization%20(Spatial%20Intelligence)/Sevensense%20(EU%20ops).svg",
+        "format": "svg"
+      },
+      {
+        "company": "Slamcore",
+        "slug": "SLAMcore",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Autonomy,%20Navigation%20%26%20Localization%20(Spatial%20Intelligence)/SLAMcore.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Vintecc",
+        "slug": "Vintecc",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Autonomy,%20Navigation%20%26%20Localization%20(Spatial%20Intelligence)/Vintecc.png",
+        "format": "png"
+      }
+    ],
+    "Hardware Components & Subsystems (Hardware)": [
+      {
+        "company": "Adaptronics",
+        "slug": "Adaptronics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Hardware%20Components%20%26%20Subsystems%20(Hardware)/Adaptronics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Celus Robotics",
+        "slug": "CELUS Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Hardware%20Components%20%26%20Subsystems%20(Hardware)/CELUS%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Iridesence",
+        "slug": "Iridesence",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Hardware%20Components%20%26%20Subsystems%20(Hardware)/Iridesence.jpg",
+        "format": "jpg"
+      },
+      {
+        "company": "Prensilia",
+        "slug": "Prensilia",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Hardware%20Components%20%26%20Subsystems%20(Hardware)/Prensilia.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Robok",
+        "slug": "RoboK",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Hardware%20Components%20%26%20Subsystems%20(Hardware)/RoboK.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Sonair",
+        "slug": "Sonair",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Hardware%20Components%20%26%20Subsystems%20(Hardware)/Sonair.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Xsens (Eu Ecosystem)",
+        "slug": "Xsens (EU ecosystem)",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Hardware%20Components%20%26%20Subsystems%20(Hardware)/Xsens%20(EU%20ecosystem).svg",
+        "format": "svg"
+      }
+    ],
+    "Human-Robot Interaction (HRI) & Interfaces (Software Platforms)": [
+      {
+        "company": "Distance Technologies",
+        "slug": "Distance Technologies",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Human-Robot%20Interaction%20(HRI)%20%26%20Interfaces%20(Software%20Platforms)/Distance%20Technologies.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Extend Robotics",
+        "slug": "Extend Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Human-Robot%20Interaction%20(HRI)%20%26%20Interfaces%20(Software%20Platforms)/Extend%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Haption",
+        "slug": "Haption",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Human-Robot%20Interaction%20(HRI)%20%26%20Interfaces%20(Software%20Platforms)/Haption.webp",
+        "format": "webp"
+      },
+      {
+        "company": "Mo Sys Engineering",
+        "slug": "Mo-Sys Engineering",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Human-Robot%20Interaction%20(HRI)%20%26%20Interfaces%20(Software%20Platforms)/Mo-Sys%20Engineering.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Varjo",
+        "slug": "Varjo",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Human-Robot%20Interaction%20(HRI)%20%26%20Interfaces%20(Software%20Platforms)/Varjo.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Voyage Robotics",
+        "slug": "Voyage Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Human-Robot%20Interaction%20(HRI)%20%26%20Interfaces%20(Software%20Platforms)/Voyage%20Robotics.jpg",
+        "format": "jpg"
+      }
+    ],
+    "Robotics AI, Models & Agents (Spatial Intelligence)": [
+      {
+        "company": "Forgis",
+        "slug": "Forgis",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Robotics%20AI,%20Models%20%26%20Agents%20(Spatial%20Intelligence)/Forgis.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Mistral Ai (Robotics Adjacencies)",
+        "slug": "Mistral AI (robotics adjacencies)",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Robotics%20AI,%20Models%20%26%20Agents%20(Spatial%20Intelligence)/Mistral%20AI%20(robotics%20adjacencies).svg",
+        "format": "svg"
+      },
+      {
+        "company": "Qualia",
+        "slug": "Qualia",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Robotics%20AI,%20Models%20%26%20Agents%20(Spatial%20Intelligence)/Qualia.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Sereact",
+        "slug": "Sereact",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Robotics%20AI,%20Models%20%26%20Agents%20(Spatial%20Intelligence)/Sereact.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Spogen Ai",
+        "slug": "Spogen AI",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Robotics%20AI,%20Models%20%26%20Agents%20(Spatial%20Intelligence)/Spogen%20AI.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Stanhope Ai",
+        "slug": "Stanhope AI",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Robotics%20AI,%20Models%20%26%20Agents%20(Spatial%20Intelligence)/Stanhope%20AI.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Wayve",
+        "slug": "Wayve",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Robotics%20AI,%20Models%20%26%20Agents%20(Spatial%20Intelligence)/Wayve.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Yaak",
+        "slug": "Yaak",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Robotics%20AI,%20Models%20%26%20Agents%20(Spatial%20Intelligence)/Yaak.svg",
+        "format": "svg"
+      }
+    ],
+    "Robotics Middleware, OS & Infrastructure (Software Platforms)": [
+      {
+        "company": "Cyberwave",
+        "slug": "Cyberwave",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Robotics%20Middleware,%20OS%20%26%20Infrastructure%20(Software%20Platforms)/Cyberwave.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Encord",
+        "slug": "Encord",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Robotics%20Middleware,%20OS%20%26%20Infrastructure%20(Software%20Platforms)/Encord.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Energy Robotics",
+        "slug": "Energy Robotics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Robotics%20Middleware,%20OS%20%26%20Infrastructure%20(Software%20Platforms)/Energy%20Robotics.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Formant Eu Ops",
+        "slug": "Formant EU ops",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Robotics%20Middleware,%20OS%20%26%20Infrastructure%20(Software%20Platforms)/Formant%20EU%20ops.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Luffy Ai",
+        "slug": "Luffy AI",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Robotics%20Middleware,%20OS%20%26%20Infrastructure%20(Software%20Platforms)/Luffy%20AI.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Nscale",
+        "slug": "Nscale",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Robotics%20Middleware,%20OS%20%26%20Infrastructure%20(Software%20Platforms)/Nscale.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Relayr",
+        "slug": "Relayr",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Robotics%20Middleware,%20OS%20%26%20Infrastructure%20(Software%20Platforms)/Relayr.png",
+        "format": "png"
+      },
+      {
+        "company": "Wandelbots",
+        "slug": "Wandelbots",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Robotics%20Middleware,%20OS%20%26%20Infrastructure%20(Software%20Platforms)/Wandelbots.svg",
+        "format": "svg"
+      }
+    ],
+    "Simulation, Digital Twins & Dev Tools (Spatial Intelligence)": [
+      {
+        "company": "Cosmo Tech",
+        "slug": "Cosmo Tech",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Simulation,%20Digital%20Twins%20%26%20Dev%20Tools%20(Spatial%20Intelligence)/Cosmo%20Tech.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Duality Robotics Eu Ops",
+        "slug": "Duality Robotics EU ops",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Simulation,%20Digital%20Twins%20%26%20Dev%20Tools%20(Spatial%20Intelligence)/Duality%20Robotics%20EU%20ops.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Improbable",
+        "slug": "Improbable",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Simulation,%20Digital%20Twins%20%26%20Dev%20Tools%20(Spatial%20Intelligence)/Improbable.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Mosaico",
+        "slug": "Mosaico",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Simulation,%20Digital%20Twins%20%26%20Dev%20Tools%20(Spatial%20Intelligence)/Mosaico.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Rerun",
+        "slug": "Rerun",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Simulation,%20Digital%20Twins%20%26%20Dev%20Tools%20(Spatial%20Intelligence)/Rerun.svg",
+        "format": "svg"
+      },
+      {
+        "company": "Saturn Dynamics",
+        "slug": "Saturn Dynamics",
+        "logo_url": "https://raw.githubusercontent.com/Obafunto/robotics-logomap-assets/main/Layer%20B%20Infrastructure%20Enabling%20Categories/Simulation,%20Digital%20Twins%20%26%20Dev%20Tools%20(Spatial%20Intelligence)/Saturn%20Dynamics.svg",
+        "format": "svg"
+      }
+    ]
+  }
+}
