@@ -1,0 +1,207 @@
+﻿C:\Users\hayod\robotics-logomap-assets\file-list.txt
+C:\Users\hayod\robotics-logomap-assets\logos.json
+C:\Users\hayod\robotics-logomap-assets\README.md
+C:\Users\hayod\robotics-logomap-assets\Layer A\.gitkeep
+C:\Users\hayod\robotics-logomap-assets\Layer A\Agriculture, Forestry & Food Systems\AgriRobot.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Agriculture, Forestry & Food Systems\AgXeed.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Agriculture, Forestry & Food Systems\Caterra.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Agriculture, Forestry & Food Systems\Ecorobotix.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Agriculture, Forestry & Food Systems\EdenCore.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Agriculture, Forestry & Food Systems\FarmDroid.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Agriculture, Forestry & Food Systems\Floating Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Agriculture, Forestry & Food Systems\Grodi.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Agriculture, Forestry & Food Systems\Kilter.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Agriculture, Forestry & Food Systems\Naïo Technologies.webp
+C:\Users\hayod\robotics-logomap-assets\Layer A\Agriculture, Forestry & Food Systems\Octinion (Urban Crop).jpg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Agriculture, Forestry & Food Systems\Saga Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Construction, Infrastructure & Built Environment\10Lines.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Construction, Infrastructure & Built Environment\Aerones.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Construction, Infrastructure & Built Environment\Aithon.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Construction, Infrastructure & Built Environment\BAUBOT (Printstones).svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Construction, Infrastructure & Built Environment\Converto  nLink.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Construction, Infrastructure & Built Environment\CyBe.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Construction, Infrastructure & Built Environment\Flybotix.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Construction, Infrastructure & Built Environment\HausBots.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Construction, Infrastructure & Built Environment\KEWAZO.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Construction, Infrastructure & Built Environment\Monumental.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Construction, Infrastructure & Built Environment\Pipein.jpg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Construction, Infrastructure & Built Environment\Scaled Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Construction, Infrastructure & Built Environment\Under Industries.jpg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Construction, Infrastructure & Built Environment\Wingtra.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Defence, Security & Dual Use\ARX Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Defence, Security & Dual Use\distance technologies.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Defence, Security & Dual Use\Harmattan AI.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Defence, Security & Dual Use\Helsing.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Defence, Security & Dual Use\Kova Labs.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Defence, Security & Dual Use\Milrem Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Defence, Security & Dual Use\Quantum Systems.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Defence, Security & Dual Use\SWARM Biotactics.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Defence, Security & Dual Use\tytan.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Defence, Security & Dual Use\Vizgard.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Domestic & Consumer Robotics\Blue Frog Robotics (Buddy).webp
+C:\Users\hayod\robotics-logomap-assets\Layer A\Domestic & Consumer Robotics\Furhat Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Domestic & Consumer Robotics\Marty the Robot (Robotical).png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Domestic & Consumer Robotics\Marty the Robot.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Domestic & Consumer Robotics\No Isolation (AV1).svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Domestic & Consumer Robotics\Rivr.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Domestic & Consumer Robotics\Shape Robotics.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Domestic & Consumer Robotics\Tediro.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Domestic & Consumer Robotics\Temi (europe operations).svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Domestic & Consumer Robotics\Twiice.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Drones & Autonomous Vehicles (Non-Humanoid)\1X Technologies.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Drones & Autonomous Vehicles (Non-Humanoid)\Acua Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Drones & Autonomous Vehicles (Non-Humanoid)\Airvolute.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Drones & Autonomous Vehicles (Non-Humanoid)\Ava Ocean.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Drones & Autonomous Vehicles (Non-Humanoid)\Delair.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Drones & Autonomous Vehicles (Non-Humanoid)\Kongsberg Ferrotech.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Drones & Autonomous Vehicles (Non-Humanoid)\Lúnasa.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Drones & Autonomous Vehicles (Non-Humanoid)\Manna.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Drones & Autonomous Vehicles (Non-Humanoid)\Marble.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Drones & Autonomous Vehicles (Non-Humanoid)\Nautica.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Drones & Autonomous Vehicles (Non-Humanoid)\Nomadic Drones.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Drones & Autonomous Vehicles (Non-Humanoid)\ScrubMarine.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Drones & Autonomous Vehicles (Non-Humanoid)\Tekever.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Drones & Autonomous Vehicles (Non-Humanoid)\Tethys Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Drones & Autonomous Vehicles (Non-Humanoid)\Twentyfour Industries.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Drones & Autonomous Vehicles (Non-Humanoid)\Wingcopter.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Drones & Autonomous Vehicles (Non-Humanoid)\Zelim.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Healthcare & Medical Robotics\aiEndoscopic.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Healthcare & Medical Robotics\Autonomyo.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Healthcare & Medical Robotics\BionIT Labs.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Healthcare & Medical Robotics\Blue Ocean Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Healthcare & Medical Robotics\CMR Surgical.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Healthcare & Medical Robotics\Distalmotion.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Healthcare & Medical Robotics\LEM Surgical.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Healthcare & Medical Robotics\Moon Surgical.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Healthcare & Medical Robotics\Nami Surgical.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Healthcare & Medical Robotics\Nanoflex Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Healthcare & Medical Robotics\Panda Surgical.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Healthcare & Medical Robotics\Quantum Surgical.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Healthcare & Medical Robotics\Robeauté.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Healthcare & Medical Robotics\Vilje Bionics.webp
+C:\Users\hayod\robotics-logomap-assets\Layer A\Healthcare & Medical Robotics\Wandercraft.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Humanoid & General-Purpose Robots\1X Technologies (formerly Halodi).svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Humanoid & General-Purpose Robots\1X Technologies.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Humanoid & General-Purpose Robots\allonic.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Humanoid & General-Purpose Robots\AUTMAN ROBOTICS.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Humanoid & General-Purpose Robots\Enchanted Tools.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Humanoid & General-Purpose Robots\Engineered Arts.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Humanoid & General-Purpose Robots\Hexagon Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Humanoid & General-Purpose Robots\iCub.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Humanoid & General-Purpose Robots\NEURA Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Humanoid & General-Purpose Robots\PAL Robotics.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Humanoid & General-Purpose Robots\UMA Robotics.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Industrial & Manufacturing Robotics\Agile Robots.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Industrial & Manufacturing Robotics\ANYbotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Industrial & Manufacturing Robotics\Automata.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Industrial & Manufacturing Robotics\Eclore Actuators.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Industrial & Manufacturing Robotics\Filics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Industrial & Manufacturing Robotics\Franka Emika.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Industrial & Manufacturing Robotics\Inbolt.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Industrial & Manufacturing Robotics\Isybot.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Industrial & Manufacturing Robotics\Makiina.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Industrial & Manufacturing Robotics\Micropsi.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Industrial & Manufacturing Robotics\Mimic.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Industrial & Manufacturing Robotics\N Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Industrial & Manufacturing Robotics\R3 Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Industrial & Manufacturing Robotics\RobCo.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Industrial & Manufacturing Robotics\sewts.webp
+C:\Users\hayod\robotics-logomap-assets\Layer A\Industrial & Manufacturing Robotics\Sunrise Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\AICA.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\AutoStore.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\Brightpick.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\Dexory.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\Exotec.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\Fizyr.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\Galam Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\Gideon (formerly Gideon Brothers).svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\Kinexon.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\Levtek.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\Lowpad.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\Magazino.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\NEOintralogistics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\NODE Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\Nomagic.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\Onward Robotics.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\Onward.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\Progressive Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\Scallog.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\Seal Robotics.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\Starship Technologies.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\Starship.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\Unchained Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Logistics, Warehouse & Last-Mile Robotics\Verity.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Mobility & Autonomous Transportation Robotics\Oxbotica.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Science, Research & Laboratory Robotics\IMAI Medtech.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Science, Research & Laboratory Robotics\LabGenius.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Science, Research & Laboratory Robotics\Opentrons EU ops.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Science, Research & Laboratory Robotics\Synthace.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Service Robotics (Commercial & Consumer)\Aitonomi.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Service Robotics (Commercial & Consumer)\Ascento.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Service Robotics (Commercial & Consumer)\Danu.avif
+C:\Users\hayod\robotics-logomap-assets\Layer A\Service Robotics (Commercial & Consumer)\F&P Robotics (EU presence).svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Service Robotics (Commercial & Consumer)\Loki Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Service Robotics (Commercial & Consumer)\Oddbot.png
+C:\Users\hayod\robotics-logomap-assets\Layer A\Service Robotics (Commercial & Consumer)\Ottonomy Europe.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Service Robotics (Commercial & Consumer)\Paddington Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Service Robotics (Commercial & Consumer)\Pudu Europe ops.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Service Robotics (Commercial & Consumer)\Roboa.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Service Robotics (Commercial & Consumer)\Rollo Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Service Robotics (Commercial & Consumer)\United Robotics Group.svg
+C:\Users\hayod\robotics-logomap-assets\Layer A\Service Robotics (Commercial & Consumer)\Voliro.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Autonomy, Navigation & Localization (Spatial Intelligence)\Exwayz.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Autonomy, Navigation & Localization (Spatial Intelligence)\Flexoo.png
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Autonomy, Navigation & Localization (Spatial Intelligence)\NavVis.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Autonomy, Navigation & Localization (Spatial Intelligence)\Peregrine AI.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Autonomy, Navigation & Localization (Spatial Intelligence)\Peregrine.png
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Autonomy, Navigation & Localization (Spatial Intelligence)\Proxima Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Autonomy, Navigation & Localization (Spatial Intelligence)\Scantinel Photonics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Autonomy, Navigation & Localization (Spatial Intelligence)\Sees AI.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Autonomy, Navigation & Localization (Spatial Intelligence)\Sevensense (EU ops).png
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Autonomy, Navigation & Localization (Spatial Intelligence)\Sevensense (EU ops).svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Autonomy, Navigation & Localization (Spatial Intelligence)\SLAMcore.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Autonomy, Navigation & Localization (Spatial Intelligence)\Vintecc.png
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Hardware Components & Subsystems (Hardware)\Adaptronics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Hardware Components & Subsystems (Hardware)\CELUS Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Hardware Components & Subsystems (Hardware)\Iridesence.jpg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Hardware Components & Subsystems (Hardware)\Monopulse.png
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Hardware Components & Subsystems (Hardware)\Prensilia.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Hardware Components & Subsystems (Hardware)\RoboK.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Hardware Components & Subsystems (Hardware)\Sonair.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Hardware Components & Subsystems (Hardware)\Xsens (EU ecosystem).svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Human-Robot Interaction (HRI) & Interfaces (Software Platforms)\Distance Technologies.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Human-Robot Interaction (HRI) & Interfaces (Software Platforms)\Extend Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Human-Robot Interaction (HRI) & Interfaces (Software Platforms)\Haption.webp
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Human-Robot Interaction (HRI) & Interfaces (Software Platforms)\Mo-Sys Engineering.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Human-Robot Interaction (HRI) & Interfaces (Software Platforms)\Varjo.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Human-Robot Interaction (HRI) & Interfaces (Software Platforms)\Voyage Robotics.jpg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Robotics AI, Models & Agents (Spatial Intelligence)\Forgis.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Robotics AI, Models & Agents (Spatial Intelligence)\Matta.png
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Robotics AI, Models & Agents (Spatial Intelligence)\Mistral AI (robotics adjacencies).svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Robotics AI, Models & Agents (Spatial Intelligence)\Phospho.png
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Robotics AI, Models & Agents (Spatial Intelligence)\Qualia.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Robotics AI, Models & Agents (Spatial Intelligence)\Sereact.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Robotics AI, Models & Agents (Spatial Intelligence)\Spogen AI.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Robotics AI, Models & Agents (Spatial Intelligence)\Stanhope AI.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Robotics AI, Models & Agents (Spatial Intelligence)\Wayve.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Robotics AI, Models & Agents (Spatial Intelligence)\Yaak.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Robotics Middleware, OS & Infrastructure (Software Platforms)\Cyberwave.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Robotics Middleware, OS & Infrastructure (Software Platforms)\Encord.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Robotics Middleware, OS & Infrastructure (Software Platforms)\Energy Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Robotics Middleware, OS & Infrastructure (Software Platforms)\Formant EU ops.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Robotics Middleware, OS & Infrastructure (Software Platforms)\Luffy AI.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Robotics Middleware, OS & Infrastructure (Software Platforms)\Metacarpal.png
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Robotics Middleware, OS & Infrastructure (Software Platforms)\Nscale.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Robotics Middleware, OS & Infrastructure (Software Platforms)\Olo Robotics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Robotics Middleware, OS & Infrastructure (Software Platforms)\Relayr.png
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Robotics Middleware, OS & Infrastructure (Software Platforms)\Robovision.jpg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Robotics Middleware, OS & Infrastructure (Software Platforms)\Wandelbots.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Simulation, Digital Twins & Dev Tools (Spatial Intelligence)\Cosmo Tech.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Simulation, Digital Twins & Dev Tools (Spatial Intelligence)\Duality Robotics EU ops.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Simulation, Digital Twins & Dev Tools (Spatial Intelligence)\Improbable.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Simulation, Digital Twins & Dev Tools (Spatial Intelligence)\Mosaico.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Simulation, Digital Twins & Dev Tools (Spatial Intelligence)\openmaind.png
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Simulation, Digital Twins & Dev Tools (Spatial Intelligence)\Rerun.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Simulation, Digital Twins & Dev Tools (Spatial Intelligence)\Robominder.png
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Simulation, Digital Twins & Dev Tools (Spatial Intelligence)\Saturn Dynamics.svg
+C:\Users\hayod\robotics-logomap-assets\Layer B Infrastructure Enabling Categories\Simulation, Digital Twins & Dev Tools (Spatial Intelligence)\Vsim.svg
